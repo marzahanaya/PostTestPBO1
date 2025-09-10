@@ -9,6 +9,7 @@ Program Sistem Manajemen Kursus Online ini dibuat untuk memudahkan pengguna dala
 ## Output
 <img width="402" height="162" alt="Screenshot 2025-09-10 214928" src="https://github.com/user-attachments/assets/d9612a93-7116-4f2a-986b-a6b5d3774aba" />
 
+
 Berikut ini adalah tampilan awal pada saat program dijalankan. Disini terlihat ada 5 menu yang dapat dipilih oleh pengguna sistem ini.
 
 <img width="845" height="277" alt="Screenshot 2025-09-10 213254" src="https://github.com/user-attachments/assets/18110ba8-6265-4c85-9120-74f92fec628a" />
