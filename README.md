@@ -6,7 +6,7 @@
 ## Deskripsi Program
 Program Sistem Manajemen Kursus Online ini dibuat untuk memudahkan pengguna dalam mengelola data kursus dan peserta secara sederhana. Pengguna bisa menambahkan kursus baru, melihat daftar kursus yang tersedia, mengubah informasi kursus, serta menghapus kursus yang sudah tidak diperlukan. Program ini menggunakan bahasa pemrograman Java dan menerapkan konsep pemrograman berorientasi objek dengan tiga kelas utama, yaitu posttestpbo yang saya jadikan sebagai main class, KursusOnline untuk menyimpan data kursus, dan Siswa untuk menyimpan data peserta.
 
-### Output
+## Output
 <img width="402" height="162" alt="Screenshot 2025-09-10 214928" src="https://github.com/user-attachments/assets/d9612a93-7116-4f2a-986b-a6b5d3774aba" />
 Berikut ini adalah tampilan awal pada saat program dijalankan. Disini terlihat ada 5 menu yang dapat dipilih oleh pengguna sistem ini.
 
